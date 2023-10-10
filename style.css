@@ -359,16 +359,16 @@ body::-webkit-scrollbar {
                 background-color: coral;
             }
                 .skills .skills-content .right .photo-editing::before{
-                    width: 95%;
-                }
-                .skills .skills-content .right .video-editing::before{
                     width: 85%;
                 }
+                .skills .skills-content .right .video-editing::before{
+                    width: 70%;
+                }
                 .skills .skills-content .right .graphic-design::before{
-                    width: 80%;
+                    width: 60%;
                 }
                 .skills .skills-content .right .html::before{
-                    width: 70%;
+                    width: 90%;
                 }
                 .skills .skills-content .right .css::before{
                     width: 60%;
@@ -377,16 +377,25 @@ body::-webkit-scrollbar {
                     width: 65%;
                 }
                 .skills .skills-content .right .c-prog::before{
-                    width: 85%;
+                    width: 75%;
                 }
                 .skills .skills-content .right .cpp::before{
-                    width: 90%;
+                    width: 80%;
                 }
                 .skills .skills-content .right .core-java::before{
-                    width: 95%;
+                    width: 85%;
                 }
                 .skills .skills-content .right .my-sql::before{
+                    width: 65%;
+                }
+                .skills .skills-content .right .java-script::before{
                     width: 55%;
+                }
+                .skills .skills-content .right .vb-net::before{
+                    width: 70%;
+                }
+                .skills .skills-content .right .mongo-db::before{
+                    width: 40%;
                 }
 
 /* Teams */
